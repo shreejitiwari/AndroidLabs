@@ -4,7 +4,7 @@ void main(){
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Doraemon'),
+          title: const Text('Doraemon'),
           backgroundColor: Colors.greenAccent[400],
         ),
         
